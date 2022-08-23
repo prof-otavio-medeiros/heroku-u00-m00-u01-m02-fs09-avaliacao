@@ -1,0 +1,26 @@
+{
+  "name": "u01-m02",
+  "version": "1.0.0",
+  "description": "",
+  "main": "httpServer.js",
+  "type": "module",
+  "scripts": {
+    "start": "node httpServer.js"
+  },
+  "keywords": [],
+  "author": {
+    "name": "Otávio Medeiros",
+    "email": "prof.otavio.medeiros@gmail.com"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "axios": "^0.27.2",
+    "dotenv": "^16.0.1",
+    "node-fetch": "^3.2.8",
+    "node-localstorage": "^2.2.1",
+    "query-string": "^7.1.1"
+  },
+  "engines": {
+    "node": "v18.6.0"
+  }
+}
