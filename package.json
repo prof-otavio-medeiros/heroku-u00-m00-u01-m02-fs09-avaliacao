@@ -13,7 +13,7 @@
     "email": "prof.otavio.medeiros@gmail.com"
   },
   "license": "ISC",
-  "devDependencies": {
+  "dependencies": {
     "axios": "^0.27.2",
     "dotenv": "^16.0.1",
     "node-fetch": "^3.2.8",
